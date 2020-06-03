@@ -69,7 +69,7 @@ fun testSinyal() {
         setReport("")
         println(getReport())
         setReport("Sinyallabal")
-        println(getReport())
+        println(getReport());
     }
 }
 
